@@ -19,7 +19,7 @@ todo directamente en tu navegador y sin necesidad de internet.
 
 ## Características
 
-- 📝 **155 preguntas** de práctica sobre salud, vida y accidentes.
+- 📝 **155 preguntas** de práctica sobre salud, vida y accidentes, cada una con **explicación de estudio** en español: después de responder verás por qué la respuesta correcta es la correcta y por qué las demás opciones no aplican.
 - 🎯 **Simulacro de examen** (25, 50, 100 preguntas o el banco completo), sin respuestas visibles.
 - 📚 **Práctica por tema**: elige uno o varios temas y estudia con guía de repaso.
 - 🔥 **Modo reforzar**: practica automáticamente tus áreas más débiles.
