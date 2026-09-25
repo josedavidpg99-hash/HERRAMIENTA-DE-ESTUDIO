@@ -1,6 +1,6 @@
 /* PrepSeguro Utah — service worker.
    Solo se registra en http/https (ver index.html); en file:// no hace nada. */
-const CACHE = 'prepseguro-utah-v2';
+const CACHE = 'prepseguro-utah-v3';
 const ASSETS = [
   './',
   './index.html',

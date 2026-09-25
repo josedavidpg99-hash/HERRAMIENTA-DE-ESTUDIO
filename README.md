@@ -19,7 +19,7 @@ todo directamente en tu navegador y sin necesidad de internet.
 
 ## Características
 
-- 📝 **155 preguntas** de práctica sobre salud, vida y accidentes, cada una con **explicación de estudio** en español: después de responder verás por qué la respuesta correcta es la correcta y por qué las demás opciones no aplican.
+- 📝 **155 preguntas** de práctica sobre salud, vida y accidentes con **nivel de dificultad real de examen**: las 4 opciones tienen longitud similar y las incorrectas son distractores plausibles (inversiones sutiles, números cercanos, confusiones clásicas), así que hay que analizar, no adivinar por descarte. Cada pregunta incluye un **recuadro de contexto** 🧠 en español que explica el concepto a fondo y por qué cada distractor es incorrecto.
 - 🎯 **Simulacro de examen** (25, 50, 100 preguntas o el banco completo), sin respuestas visibles.
 - 📚 **Práctica por tema**: elige uno o varios temas y estudia con guía de repaso.
 - 🔥 **Modo reforzar**: practica automáticamente tus áreas más débiles.
