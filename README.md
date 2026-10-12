@@ -1,7 +1,7 @@
 # PrepSeguro Utah — Plataforma universal de estudio
 
 Plataforma gratuita de estudio para el examen de seguros de **salud, vida y accidentes** en Utah.
-Practica con un banco de **155 preguntas**, haz simulacros de examen y sigue tu progreso por tema,
+Practica con un banco de **154 preguntas**, haz simulacros de examen y sigue tu progreso por tema,
 todo directamente en tu navegador y sin necesidad de internet.
 
 ## Cómo usarla
@@ -19,7 +19,7 @@ todo directamente en tu navegador y sin necesidad de internet.
 
 ## Características
 
-- 📝 **155 preguntas** de práctica sobre salud, vida y accidentes con **nivel de dificultad real de examen**: las 4 opciones tienen longitud similar y las incorrectas son distractores plausibles (inversiones sutiles, números cercanos, confusiones clásicas), así que hay que analizar, no adivinar por descarte. Cada pregunta incluye un **recuadro de contexto** 🧠 en español que explica el concepto a fondo y por qué cada distractor es incorrecto.
+- 📝 **154 preguntas** de práctica sobre salud, vida y accidentes con **nivel de dificultad real de examen**: las 4 opciones tienen longitud similar y las incorrectas son distractores plausibles (inversiones sutiles, números cercanos, confusiones clásicas), así que hay que analizar, no adivinar por descarte. Cada pregunta incluye un **recuadro de contexto** 🧠 en español que explica el concepto a fondo y por qué cada distractor es incorrecto.
 - 🎯 **Simulacro de examen** (25, 50, 100 preguntas o el banco completo), sin respuestas visibles.
 - 📚 **Práctica por tema**: elige uno o varios temas y estudia con guía de repaso.
 - 🔥 **Modo reforzar**: practica automáticamente tus áreas más débiles.
@@ -37,7 +37,7 @@ todo directamente en tu navegador y sin necesidad de internet.
 ├── css/
 │   └── styles.css    Todos los estilos
 ├── js/
-│   ├── preguntas.js  Banco de las 155 preguntas (const ALL_Q)
+│   ├── preguntas.js  Banco de las 154 preguntas (const ALL_Q)
 │   └── app.js        Lógica de la app: modos de estudio, progreso, estadísticas
 ├── manifest.json     Manifiesto PWA (nombre, colores, íconos)
 ├── sw.js             Service worker: caché para uso sin internet
